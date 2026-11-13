@@ -2,4 +2,16 @@
   <Folder Name="/Content/">
     <File Path="Cap.txt" />
   </Folder>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.MengAV.Sprint4.Task0.V7.Lib/Tyuiu.MengAV.Sprint4.Task0.V7.Lib.csproj" />
+    <Project Path="Tyuiu.MengAV.Sprint4.Task0.V7.Test/Tyuiu.MengAV.Sprint4.Task0.V7.Test.csproj" />
+    <Project Path="Tyuiu.MengAV.Sprint4.Task0.V7/Tyuiu.MengAV.Sprint4.Task0.V7.csproj" />
+  </Folder>
+  <Folder Name="/Task1/" />
+  <Folder Name="/Task2/" />
+  <Folder Name="/Task3/" />
+  <Folder Name="/Task4/" />
+  <Folder Name="/Task5/" />
+  <Folder Name="/Task6/" />
+  <Folder Name="/Task7/" />
 </Solution>
