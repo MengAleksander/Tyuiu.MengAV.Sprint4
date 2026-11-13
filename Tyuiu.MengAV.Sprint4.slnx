@@ -12,7 +12,11 @@
     <Project Path="Tyuiu.MengAV.Sprint4.Task1.V1.Test/Tyuiu.MengAV.Sprint4.Task1.V1.Test.csproj" Id="e1f930e8-ef8a-4df7-9c58-c697ef56b5c2" />
     <Project Path="Tyuiu.MengAV.Sprint4.Task1.V1/Tyuiu.MengAV.Sprint4.Task1.V1.csproj" Id="88b76ffb-bc3c-4a3a-a9c0-a2650e04321b" />
   </Folder>
-  <Folder Name="/Task2/" />
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.MengAV.Sprint4.Task2.V15.Lib/Tyuiu.MengAV.Sprint4.Task2.V15.Lib.csproj" Id="32cedab1-6e39-446f-a129-035b0334edfa" />
+    <Project Path="Tyuiu.MengAV.Sprint4.Task2.V15.Test/Tyuiu.MengAV.Sprint4.Task2.V15.Test.csproj" Id="3ee2e67a-6ce3-48d6-b50c-297c6ce38118" />
+    <Project Path="Tyuiu.MengAV.Sprint4.Task2.V15/Tyuiu.MengAV.Sprint4.Task2.V15.csproj" Id="9601331d-c2f1-4c2b-ae24-257c129eb985" />
+  </Folder>
   <Folder Name="/Task3/" />
   <Folder Name="/Task4/" />
   <Folder Name="/Task5/" />
